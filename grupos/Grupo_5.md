@@ -6,35 +6,34 @@ Bienvenidos a la sesión laboratorio de ramas y conflictos.
 
 ## Integrantes del grupo
 
-- Lycorys
-- Nombre 2
+- Nicolas
 
 ---
 
 ## Nombre del grupo
 
-Jazzn't
+Pixies
 
 ---
 
 ## Frase del grupo
 
-El error es la capa 8
+Somos pixies
 
 ---
 
 ## Tema favorito de la sesión
 
-El profesor llegando tarde q(≧▽≦q)
+La seriedad del profesor
 
 ---
 
 ## Recurso útil
 
-Trigo
+Revertir pull request
 
 ---
 
 ## Reflexión final
 
-Never gonna give you up
+No fun :(
