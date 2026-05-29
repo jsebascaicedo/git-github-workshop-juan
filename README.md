@@ -7,7 +7,7 @@ Bienvenidos a la sesión laboratorio de ramas y conflictos.
 ## Integrantes del grupo
 
 - Nombre 1
-- Nombre 2
+- Nombre 2 : Juan vice Racista
 
 ---
 
@@ -19,7 +19,7 @@ Pendiente...
 
 ## Frase del grupo
 
-Pendiente...
+computer y Ras amigos por siempre
 
 ---
 
@@ -31,10 +31,10 @@ Pendiente...
 
 ## Recurso útil
 
-Pendiente...
+las diapos
 
 ---
 
 ## Reflexión final
 
-Pendiente...
+no hagas force si no sabes lo que estas haciendo
