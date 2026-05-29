@@ -6,35 +6,35 @@ Bienvenidos a la sesión laboratorio de ramas y conflictos.
 
 ## Integrantes del grupo
 
-- Lycorys
+- Nombre 1
 - Nombre 2
 
 ---
 
 ## Nombre del grupo
 
-Jazzn't
+Pendiente...
 
 ---
 
 ## Frase del grupo
 
-El error es la capa 8
+Pendiente...
 
 ---
 
 ## Tema favorito de la sesión
 
-El profesor llegando tarde q(≧▽≦q)
+Pendiente...
 
 ---
 
 ## Recurso útil
 
-Trigo
+Pendiente...
 
 ---
 
 ## Reflexión final
 
-Never gonna give you up
+Pendiente...
